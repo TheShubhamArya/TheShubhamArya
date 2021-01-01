@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... updating my apps and developing my website.
+- 🌱 I’m currently learning ... full stack web developement.
+- 👯 I’m looking to collaborate on ... iOS apps.
+- 🤔 I’m looking for help with ... web developement.
+- 💬 Ask me about ... anything.
+- 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: I am a pretty good table tennis player!
+
 <!--
 **TheShubhamArya/TheShubhamArya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
