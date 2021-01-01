@@ -1,12 +1,12 @@
 ### Hi there 👋
 #### My Name is Shubham Arya. I am a junior at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop new applications that people all around the world can use.
-- 🔭 I’m currently working on ... updating my apps and developing my website.
-- 🌱 I’m currently learning ... full stack web developement.
-- 👯 I’m looking to collaborate on ... iOS apps.
-- 🤔 I’m looking for help with ... web developement.
-- 💬 Ask me about ... anything.
+- 🔭 I’m currently working on updating my apps and developing my website.
+- 🌱 I’m currently learning full stack web developement.
+- 👯 I’m looking to collaborate on iOS apps.
+- 🤔 I’m looking for help with web developement.
+- 💬 Ask me about anything.
 - 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a pretty good table tennis player!
 
 <!--
