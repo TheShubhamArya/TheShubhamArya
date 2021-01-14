@@ -9,6 +9,23 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a pretty good table tennis player!
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
+[![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
+[![Youtube Badge](https://img.shields.io/badge/-tnqvd-darkred?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/tnqvd)](https://www.youtube.com/c/tnqvd)
+[![Medium Badge](https://img.shields.io/badge/-@swapnanil-dhol?style=plastic-square&labelColor=000000&logo=Medium&link=https://medium.com/@swapnanildhol/)](https://medium.com/@swapnanildhol)
+
+## 🖥 Technologies and Languages
+
+![Swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift) 
+![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C) 
+![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C) 
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)\
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
+![Xcode](https://img.shields.io/badge/-Xcode-black?style=plastic&logo=xcode) 
+![CocoaPods](https://img.shields.io/badge/-Cocoapods-black?style=plastic&logo=Cocoapods)
+
+
 <!--
 **TheShubhamArya/TheShubhamArya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
