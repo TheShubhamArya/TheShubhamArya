@@ -5,10 +5,7 @@
 - 👯 I’m looking to collaborate on iOS apps.
 - 🤔 I’m looking for help with web developement.
 - 💬 Ask me about anything.
-<!-- 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)-->
-<a href="mailto:shubhamarya110999@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" style="vertical-align:top; margin:4px color: orange;">
-</a>
+- 📫 Email- [Shubham Arya](mailto:shubhamarya11099@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
 [![Instagram Badge](https://img.shields.io/badge/-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_shubhamarya_/)](https://instagram.com/_shubhamarya_)
 
