@@ -1,9 +1,6 @@
 ### Hi there 👋
 #### My Name is Shubham Arya. I am a junior at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop new applications that people all around the world can use.
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
-[![Instagram Badge](https://img.shields.io/badge/-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_shubhamarya_/)](https://instagram.com/_shubhamarya_)
-
 ## 🖥 Technologies and Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift) 
@@ -16,6 +13,7 @@
 
 ## 🏆 My GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
 
 - 🔭 I’m currently working on updating my apps and developing my website.
@@ -24,11 +22,13 @@
 - 🤔 I’m looking for help with web developement.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=TheShubhamArya.TheShubhamArya)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
+[![Instagram Badge](https://img.shields.io/badge/-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_shubhamarya_/)](https://instagram.com/_shubhamarya_)
 
 **If you like my work maybe buy me a coffee?**
 <br>
 <a href="https://www.buymeacoffee.com/shubhamarya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+<br>
+![](https://visitor-badge.laobi.icu/badge?page_id=TheShubhamArya.TheShubhamArya)
 
 
