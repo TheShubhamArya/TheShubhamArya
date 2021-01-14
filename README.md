@@ -1,5 +1,14 @@
-### Hi there 👋
+### About Me
 #### My Name is Shubham Arya. I am a junior at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop new applications that people all around the world can use.
+- 🔭 I’m currently working on updating my apps and developing my website.
+- 🌱 I’m currently learning full stack web developement.
+- 👯 I’m looking to collaborate on iOS apps.
+- 🤔 I’m looking for help with web developement.
+- 💬 Ask me about anything.
+<!-- 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)-->
+<a href="mailto:shubhamarya110999@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
+[![Instagram Badge](https://img.shields.io/badge/-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_shubhamarya_/)](https://instagram.com/_shubhamarya_)
 
 ## 🖥 Technologies and Languages
 
@@ -15,15 +24,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
-
-- 🔭 I’m currently working on updating my apps and developing my website.
-- 🌱 I’m currently learning full stack web developement.
-- 👯 I’m looking to collaborate on iOS apps.
-- 🤔 I’m looking for help with web developement.
-- 💬 Ask me about anything.
-- 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
-[![Instagram Badge](https://img.shields.io/badge/-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/_shubhamarya_/)](https://instagram.com/_shubhamarya_)
 
 **If you like my work maybe buy me a coffee?**
 <br>
