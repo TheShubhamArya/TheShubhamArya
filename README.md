@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I am a pretty good table tennis player!
 https://www.linkedin.com/in/shubham-arya-11099/
 
-[![Linkedin Badge](https://img.shields.io/badge/-shubham_arya-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
 [![Instagram Badge](https://img.shields.io/badge/-_shubhamarya_-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
 
 ## 🖥 Technologies and Languages
