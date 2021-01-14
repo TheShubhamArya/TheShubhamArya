@@ -23,25 +23,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a pretty good table tennis player!
 
-**If you like my work maybe buy me a coffee?**
-<a href="https://www.buymeacoffee.com/shubhamarya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&hide=TeX&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
-<!--
-**TheShubhamArya/TheShubhamArya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**If you like my work maybe buy me a coffee?**
+<a href="https://www.buymeacoffee.com/shubhamarya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 
