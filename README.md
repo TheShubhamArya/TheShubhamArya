@@ -14,22 +14,20 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=plastic&logo=xcode) 
 ![CocoaPods](https://img.shields.io/badge/-Cocoapods-black?style=plastic&logo=Cocoapods)
 
+## 🏆 My GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
+
 - 🔭 I’m currently working on updating my apps and developing my website.
 - 🌱 I’m currently learning full stack web developement.
 - 👯 I’m looking to collaborate on iOS apps.
 - 🤔 I’m looking for help with web developement.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a pretty good table tennis player!
-
-## 🏆 My GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=TheShubhamArya.TheShubhamArya)
 
-###If you like my work maybe buy me a coffee?
+##If you like my work maybe buy me a coffee?
 <a href="https://www.buymeacoffee.com/shubhamarya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 
