@@ -8,9 +8,9 @@
 - 📫 How to reach me: [Shubham Arya](mailto:shubhamarya11099@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a pretty good table tennis player!
+https://www.linkedin.com/in/shubham-arya-11099/
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-swapnanildhol-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnanildhol/)](https://www.linkedin.com/in/swapnanildhol/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham Arya-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-arya-11099/)](https://www.linkedin.com/in/shubham-arya-11099/)
 [![Instagram Badge](https://img.shields.io/badge/-swapnanildhol-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/swapnanildhol/)](https://instagram.com/swapnanildhol)
 [![Youtube Badge](https://img.shields.io/badge/-tnqvd-darkred?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/tnqvd)](https://www.youtube.com/c/tnqvd)
 [![Medium Badge](https://img.shields.io/badge/-@swapnanil-dhol?style=plastic-square&labelColor=000000&logo=Medium&link=https://medium.com/@swapnanildhol/)](https://medium.com/@swapnanildhol)
