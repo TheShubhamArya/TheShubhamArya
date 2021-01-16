@@ -21,9 +21,12 @@
 ![CocoaPods](https://img.shields.io/badge/-Cocoapods-black?style=plastic&logo=Cocoapods)
 
 ## 🏆 My GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&hide=TeX&theme=tokyonight)
+
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=swapnanildhol&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildhol&hide=TeX&layout=compact)-->
 
 **If you like my work maybe buy me a coffee?**
 <br>
