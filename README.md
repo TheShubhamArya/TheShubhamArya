@@ -25,8 +25,8 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamarya&hide=TeX&theme=tokyonight)
 
-<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=swapnanildhol&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildhol&hide=TeX&layout=compact)-->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheShubhamArya&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShubhamArya&hide=TeX&layout=compact)
 
 **If you like my work maybe buy me a coffee?**
 <br>
