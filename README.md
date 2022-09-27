@@ -1,5 +1,5 @@
 ### About Me
-#### Hi! This is Shubham Arya. I am a senior at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop applications that people all around the world can use.
+#### Hi! This is Shubham Arya. I am a first year Masters student in CS at the University of Texas at Arlington majoring in Computer Science. I am a software developer and I like to develop applications that people all around the world can use.
 - 🔭 I’m currently working on updating my apps and developing my website.
 - 🌱 I’m currently learning full stack web developement.
 - 👯 I’m looking to collaborate on iOS apps.
